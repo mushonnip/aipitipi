@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "jsx": "preserve",
+    "module": "es2022",
+    "moduleResolution": "Node",
+    "jsxImportSource": "solid-js",
+    "lib": ["ES2015", "ESNext", "DOM"]
+  }
+}
